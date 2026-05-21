@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Youssef Maghraoui
 
-<!--
-**jomohunter/jomohunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer and Data Engineer based in Tunis, Tunisia.
 
-Here are some ideas to get you started:
+I build production LLM agents, RAG pipelines, and data infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently building:** Waggle — an AI data analyst that connects to 
+databases and lets teams query their data through natural language.
+
+**Recent work:**
+- BigQuery data stack migration at Hivenet
+- Graph-based RAG system at VigilantX
+- NLP pipelines processing thousands of documents in production
+
+**Stack:** Python, LangChain, RAG, BigQuery, PostgreSQL, Docker, GCP
+
+**Open to:** Remote AI Engineer and Data Engineer roles worldwide
+
+📫 maghraoui.yousf@gmail.com  
+💼 linkedin.com/in/maghraouiyoussef
